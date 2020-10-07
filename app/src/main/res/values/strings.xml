@@ -3,4 +3,11 @@
     <string name="button_true">Prawda</string>
     <string name="button_false">Fałsz</string>
     <string name="button_next">Dalej</string>
+
+    <string name="question_1">Question_1</string>
+    <string name="question_2">Question_2</string>
+    <string name="question_3">Question_3</string>
+    <string name="question_4">Question_4</string>
+    <string name="correct_answer">Dobra odpowiedź!</string>
+    <string name="bad_answer">Zła odpowiedź!</string>
 </resources>
