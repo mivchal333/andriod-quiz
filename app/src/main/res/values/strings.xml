@@ -3,6 +3,7 @@
     <string name="button_true">Prawda</string>
     <string name="button_false">Fałsz</string>
     <string name="button_next">Dalej</string>
+    <string name="button_help">Pomoc</string>
 
     <string name="question_1">Question_1</string>
     <string name="question_2">Question_2</string>
