@@ -10,5 +10,6 @@
     <string name="question_3">Question_3</string>
     <string name="question_4">Question_4</string>
     <string name="correct_answer">Dobra odpowiedź!</string>
+    <string name="answer_was_shown">Była pokazana!</string>
     <string name="bad_answer">Zła odpowiedź!</string>
 </resources>
